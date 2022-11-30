@@ -3,7 +3,7 @@ This repo contains two SDN application. One is a routing app, and another is a d
 
 reference: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm  
 jdk-version: 7  
-floodlight-plus: https://pages.cs.wisc.edu/~mgliu/floodlight-plus-doc/index.html
+floodlight-plus document: https://pages.cs.wisc.edu/~mgliu/floodlight-plus-doc/index.html
 
 - start the floodlight app and SDN application:  
 
